@@ -1,13 +1,14 @@
 # iob
 
 ## Description
-Project iob
+"Input-Output buffers". A library for in-place construction of I/O buffers.
 
 ## Goals
-- [ ] Add project goals
+- [ ] Provide efficient buffer abstractions
+- [ ] Minimize copying
 
 ## Progress
-- [ ] Initial setup
+- [ ] Crate initialized
 
 ---
 *AI assisted*
